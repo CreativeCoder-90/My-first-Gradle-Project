@@ -1,0 +1,1 @@
+class Address(var street: String, var zipcode: String, var city: String)
